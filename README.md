@@ -1,3 +1,7 @@
+YOUTUBE LINK:-https://youtu.be/Lj3nmKnvrW0?si=Bk8Q1CvpVbDDmaxC
+(my whole project review)
+
+
 Overview
 
 The Smart Irrigation System is designed to monitor soil moisture and temperature in real-time, ensuring optimal water usage for agriculture. This system uses IoT-enabled devices to provide precise, data-driven irrigation management to reduce water wastage and improve crop health.
